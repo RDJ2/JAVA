@@ -1,4 +1,4 @@
-public class BankAccount {
+public class BankAccount {           //implement concept of construction
     private String accountHolder;
     private double balance;
 
